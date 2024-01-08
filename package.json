@@ -1,0 +1,15 @@
+{
+  "name": "pfe-2023-1-node-intro",
+  "version": "1.0.0",
+  "description": "this is my project description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "node"
+  ],
+  "author": "Me",
+  "license": "ISC"
+}
