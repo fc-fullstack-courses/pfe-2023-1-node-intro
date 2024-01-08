@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "this is my project description",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js",
     "myScript": "ls -la"
