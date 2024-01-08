@@ -1,6 +1,12 @@
 // імпортування файлів / модулів
 import os from 'os'; // або 'node:os'
-console.log(os.cpus());
+// console.log(os.cpus());
+
+import _ from 'lodash';
+
+const randomNumber = _.random(-1000,1000, false);
+
+console.log(randomNumber);
 
 // 1. імпортування за замовчанням
 // import ComponentImport from './Component.js'; // назву можна змінювати на будь-яку
