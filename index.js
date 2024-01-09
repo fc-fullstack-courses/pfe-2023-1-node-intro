@@ -30,3 +30,19 @@ console.log(randomNumber);
 // console.log('Hello from Node');
 
 // console.log(sum(...numbers));
+
+/*
+
+Задача: піти в магазин
+
+Імперативний стиль: встати зі стільця, 
+повернутися на 90 градусів праворуч, зробити 5 кроків
+for(let i = 0; i < arr.length; i++) {
+  console.log(arr[i]);
+}
+
+Декларативний стиль: встати, вийти з дому, піти в обраний магазин
+for (const item of arr) {
+  console.log(item);
+}
+*/
